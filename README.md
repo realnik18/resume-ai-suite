@@ -4,6 +4,8 @@ AI-Powered Resume Builder & Job Application Tracker
 
 A comprehensive SaaS application I built to solve the common pain points of job seekers - optimizing resumes for ATS systems, generating targeted cover letters with AI, and tracking job applications through the entire hiring process.
 
+🌐 **Live Demo:** [https://resume-ai-suite.vercel.app/](https://resume-ai-suite.vercel.app/)
+
 ✨ Key Features
 
 🎯 Smart Resume Builder
